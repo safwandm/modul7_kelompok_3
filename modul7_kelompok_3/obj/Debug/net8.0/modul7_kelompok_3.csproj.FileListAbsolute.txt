@@ -12,3 +12,4 @@ C:\Users\DELL\source\repos\modul7_kelompok_3\modul7_kelompok_3\obj\Debug\net8.0\
 C:\Users\DELL\source\repos\modul7_kelompok_3\modul7_kelompok_3\obj\Debug\net8.0\modul7_kelompok_3.pdb
 C:\Users\DELL\source\repos\modul7_kelompok_3\modul7_kelompok_3\obj\Debug\net8.0\modul7_kelompok_3.genruntimeconfig.cache
 C:\Users\DELL\source\repos\modul7_kelompok_3\modul7_kelompok_3\obj\Debug\net8.0\ref\modul7_kelompok_3.dll
+C:\Users\DELL\source\repos\modul7_kelompok_3\modul7_kelompok_3\obj\Debug\net8.0\modul7_kelompok_3.sourcelink.json

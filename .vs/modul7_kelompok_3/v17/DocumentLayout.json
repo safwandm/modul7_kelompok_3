@@ -3,8 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\DELL\\source\\repos\\modul7_kelompok_3\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A83E0608-5FF5-4971-8988-1B6D011FB1E6}|modul7_kelompok_3\\modul7_kelompok_3.csproj|c:\\users\\dell\\source\\repos\\modul7_kelompok_3\\modul7_kelompok_3\\glossaryitem1302223119.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A83E0608-5FF5-4971-8988-1B6D011FB1E6}|modul7_kelompok_3\\modul7_kelompok_3.csproj|solutionrelative:modul7_kelompok_3\\glossaryitem1302223119.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A83E0608-5FF5-4971-8988-1B6D011FB1E6}|modul7_kelompok_3\\modul7_kelompok_3.csproj|c:\\users\\dell\\source\\repos\\modul7_kelompok_3\\modul7_kelompok_3\\datamahsiswa1302223119.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A83E0608-5FF5-4971-8988-1B6D011FB1E6}|modul7_kelompok_3\\modul7_kelompok_3.csproj|solutionrelative:modul7_kelompok_3\\datamahsiswa1302223119.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A83E0608-5FF5-4971-8988-1B6D011FB1E6}|modul7_kelompok_3\\modul7_kelompok_3.csproj|c:\\users\\dell\\source\\repos\\modul7_kelompok_3\\modul7_kelompok_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A83E0608-5FF5-4971-8988-1B6D011FB1E6}|modul7_kelompok_3\\modul7_kelompok_3.csproj|solutionrelative:modul7_kelompok_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A83E0608-5FF5-4971-8988-1B6D011FB1E6}|modul7_kelompok_3\\modul7_kelompok_3.csproj|c:\\users\\dell\\source\\repos\\modul7_kelompok_3\\modul7_kelompok_3\\modul7_kelompok_3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A83E0608-5FF5-4971-8988-1B6D011FB1E6}|modul7_kelompok_3\\modul7_kelompok_3.csproj|solutionrelative:modul7_kelompok_3\\modul7_kelompok_3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A83E0608-5FF5-4971-8988-1B6D011FB1E6}|modul7_kelompok_3\\modul7_kelompok_3.csproj|c:\\users\\dell\\source\\repos\\modul7_kelompok_3\\modul7_kelompok_3\\jurnal7_3_1302223119.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A83E0608-5FF5-4971-8988-1B6D011FB1E6}|modul7_kelompok_3\\modul7_kelompok_3.csproj|solutionrelative:modul7_kelompok_3\\jurnal7_3_1302223119.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A83E0608-5FF5-4971-8988-1B6D011FB1E6}|modul7_kelompok_3\\modul7_kelompok_3.csproj|c:\\users\\dell\\source\\repos\\modul7_kelompok_3\\modul7_kelompok_3\\jurnal7_2_1302223119.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A83E0608-5FF5-4971-8988-1B6D011FB1E6}|modul7_kelompok_3\\modul7_kelompok_3.csproj|solutionrelative:modul7_kelompok_3\\jurnal7_2_1302223119.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,12 +39,76 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "GlossaryItem1302223119.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\modul7_kelompok_3\\modul7_kelompok_3\\GlossaryItem1302223119.cs",
+              "RelativeDocumentMoniker": "modul7_kelompok_3\\GlossaryItem1302223119.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\modul7_kelompok_3\\modul7_kelompok_3\\GlossaryItem1302223119.cs",
+              "RelativeToolTip": "modul7_kelompok_3\\GlossaryItem1302223119.cs",
+              "ViewState": "AQIAAB8AAABAxf/////vvzsAAABjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T01:51:56.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "jurnal7_3_1302223119.json",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\modul7_kelompok_3\\modul7_kelompok_3\\jurnal7_3_1302223119.json",
+              "RelativeDocumentMoniker": "modul7_kelompok_3\\jurnal7_3_1302223119.json",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\modul7_kelompok_3\\modul7_kelompok_3\\jurnal7_3_1302223119.json",
+              "RelativeToolTip": "modul7_kelompok_3\\jurnal7_3_1302223119.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-06T01:50:57.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "modul7_kelompok_3",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\modul7_kelompok_3\\modul7_kelompok_3\\modul7_kelompok_3.csproj",
+              "RelativeDocumentMoniker": "modul7_kelompok_3\\modul7_kelompok_3.csproj",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\modul7_kelompok_3\\modul7_kelompok_3\\modul7_kelompok_3.csproj",
+              "RelativeToolTip": "modul7_kelompok_3\\modul7_kelompok_3.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-06T01:50:30.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DataMahsiswa1302223119.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\modul7_kelompok_3\\modul7_kelompok_3\\DataMahsiswa1302223119.cs",
+              "RelativeDocumentMoniker": "modul7_kelompok_3\\DataMahsiswa1302223119.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\modul7_kelompok_3\\modul7_kelompok_3\\DataMahsiswa1302223119.cs",
+              "RelativeToolTip": "modul7_kelompok_3\\DataMahsiswa1302223119.cs",
+              "ViewState": "AQIAAA4AAAAAFDMzMzPjvwQAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T01:19:36.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "jurnal7_2_1302223119.json",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\modul7_kelompok_3\\modul7_kelompok_3\\jurnal7_2_1302223119.json",
+              "RelativeDocumentMoniker": "modul7_kelompok_3\\jurnal7_2_1302223119.json",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\modul7_kelompok_3\\modul7_kelompok_3\\jurnal7_2_1302223119.json",
+              "RelativeToolTip": "modul7_kelompok_3\\jurnal7_2_1302223119.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-06T01:15:37.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\modul7_kelompok_3\\modul7_kelompok_3\\Program.cs",
               "RelativeDocumentMoniker": "modul7_kelompok_3\\Program.cs",
               "ToolTip": "C:\\Users\\DELL\\source\\repos\\modul7_kelompok_3\\modul7_kelompok_3\\Program.cs",
               "RelativeToolTip": "modul7_kelompok_3\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-06T00:57:02.355Z",
               "EditorCaption": ""
