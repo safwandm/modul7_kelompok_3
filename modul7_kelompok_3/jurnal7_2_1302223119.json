@@ -1,0 +1,32 @@
+{
+  "members" : [
+    {
+       "firstName": "Muhammad Faisal Shafwan",
+       "lastName": "Damanik",
+       "gender": "male",
+       "age": 19,
+       "nim": "1302223119"
+    },
+    {
+      "firstName": "Kyntar Barra Langit",
+      "lastName": "Lubis",
+      "gender": "male",
+      "age": 19,
+      "nim": "1302220113"
+    },
+    {
+      "firstName": "Yoga Fikri",
+      "lastName": "Rizkulloh",
+      "gender": "male",
+      "age": 19,
+      "nim": "1302220101"
+    },
+    {
+      "firstName": "Haidar Abdul",
+      "lastName": "Halim",
+      "gender": "male",
+      "age": 19,
+      "nim": "1302220152"
+    }
+  ]
+}
